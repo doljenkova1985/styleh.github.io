@@ -56,7 +56,7 @@ margin-left: 50px;
 }
 
 .buton {
-   
+   padding: 13px;
     margin-right: 25px;
     font-family:'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
@@ -145,6 +145,21 @@ float: right;
     
 }
 /*галерея*/
+.galery {
+    margin-right: 40px;
+    font-family:'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+color: rgb(255, 255, 255);
+float: right;   
+}
+.contact{
+    margin-right: 25px;
+    font-family:'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+color: rgb(255, 255, 255);
+float: right;  
+padding: 13px;
+}
 .content_g{
     width: 100%;
     height: 642px;
@@ -181,11 +196,13 @@ float: right;
   
     font-family: 'Arial Narrow', Arial, sans-serif;
     background-color: rgb(255, 255, 255);
-    margin-bottom: 5px;
+    padding:5px;
+    margin: 10px;
 }
 
 .text_content {
     font-family: 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
 }
 
 
