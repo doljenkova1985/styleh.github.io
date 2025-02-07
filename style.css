@@ -379,7 +379,7 @@ font-family: 'Arial Narrow', Arial, sans-serif;
     
     /*главная страница*/
     .content {
-        height: 900px;
+        height: 715px;
         width: 100%;
        
     margin-top: 10px;
@@ -394,7 +394,7 @@ font-family: 'Arial Narrow', Arial, sans-serif;
     }
     .text1{
         border-radius: 10px;
-        height: 570px;
+        
         width: 100%;
        padding-left: 10px;
        padding-right:10px;
