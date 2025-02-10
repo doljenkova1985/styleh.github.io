@@ -1,3 +1,4 @@
+/*\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
 @media only screen and (max-width: 610px){
     body {
         background-color: rgb(245, 245, 245);
@@ -351,7 +352,7 @@
     
     }
 }
-
+/*\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
 @media only screen and (max-width: 510px){
     body {
         background-color: rgb(245, 245, 245);
@@ -705,7 +706,7 @@
     
     }
 }
-
+/*\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
 @media only screen and (max-width: 480px){
     body {
         background-color: rgb(245, 245, 245);
@@ -827,26 +828,27 @@
        margin-right: 0px;
     }
     
-    
+    /*услуги!!!!*/
     
     
     .foto_posl_l {
-        height: 595px;
-        width: 595px;
-    float: left;
+        height: 460px;
+        width: 460px;
+    float: none;
     border-radius: 3px;
     }
     
     .foto_posl_r {
-        height: 595px;
-        width: 595px;
-    float: right;
+        height: 460px;
+        width: 460px;
+    float: none;
     border-radius: 3px;
+    margin-top: 5px;
     }
     .poslyg_foto {
         width: 100%;
-        height: 595px;
-        margin-top: 10px;
+        height: 917px;
+        margin-top: 5px;
     
         
     }
