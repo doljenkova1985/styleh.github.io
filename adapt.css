@@ -705,3 +705,357 @@
     
     }
 }
+
+@media only screen and (max-width: 480px){
+    body {
+        background-color: rgb(245, 245, 245);
+    }
+    .box {
+     
+        width: 460px;
+        
+        margin: auto;
+    
+    }
+    .panel {
+        height: 40px;
+        width: 100%;
+        background-color: rgb(255, 0, 17);
+        border-radius: 3px;
+    }
+    .titl{
+        height: 100px;
+        width:100% ;
+        background-image: url("img/titl1.jpg");
+        margin-top: 10px;
+        border-radius: 3px;
+    }
+    
+    
+    /*главная страница*/
+    .content {
+        height: 850px;
+        width: 100%;
+       background-color: aqua;
+    margin-top: 10px;
+    border-radius: 5px;
+    }
+    .foto {
+        border-radius: 100px;
+        height: 300px;
+        width: 300px;
+       margin: auto;
+        float: none;
+    }
+    .text1{
+        border-radius: 10px;
+        
+        width: 100%;
+       padding-left: 10px;
+       padding-right:10px;
+       padding-top: 0px;
+        float: none;
+        text-align:center ;
+    }
+    .imgg{
+     max-width: 100%;
+      border-radius: 100px;  
+    
+    }
+    .text{
+        border-radius: 10px;
+        height: 400px;
+        width: 100%;
+       
+        float: none;
+        text-align: center;
+    }
+    
+    
+    
+    .logo{
+    height: 50px;
+    width: 150px;
+    float: left;
+    margin-left: 50px;
+    
+    
+    }
+    
+    .buton {
+       padding: 13px;
+        margin-right: 25px;
+        font-family:'Arial Narrow', Arial, sans-serif;
+        font-size: 22px;
+    color: rgb(255, 255, 255);
+    float: right;
+    }
+    
+    
+    .galery {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+        font-size: 22px;
+    color: rgb(255, 255, 255);
+    float: none;
+    margin-right: 50px;
+    margin-top: 13px;
+    }
+    .info {
+        height: 85px;
+        width: 300px;
+        background-color: black;
+        opacity: 0.5;
+       padding-top: 15px;
+        border-radius: 5px;
+    
+    }
+  
+    .text{
+        border-radius: 10px;
+        height: 400px;
+        width: 790px;
+      
+        float: right;
+        text-align:center ;
+    }
+    .info_text{
+        margin-left: 0px;
+        color: rgb(255, 255, 255);
+        font-size: 18px;
+        font-family: 'Arial Narrow', Arial, sans-serif;
+    
+       margin-right: 0px;
+    }
+    
+    
+    
+    
+    .foto_posl_l {
+        height: 595px;
+        width: 595px;
+    float: left;
+    border-radius: 3px;
+    }
+    
+    .foto_posl_r {
+        height: 595px;
+        width: 595px;
+    float: right;
+    border-radius: 3px;
+    }
+    .poslyg_foto {
+        width: 100%;
+        height: 595px;
+        margin-top: 10px;
+    
+        
+    }
+    
+    
+    .poslyg_text {
+        width: 100%;
+       margin-top: 10px;
+        padding-top: 0px;
+     color: rgb(41, 41, 41);
+        padding-bottom: 10px;
+        
+    }
+    /*галерея*/ 
+    
+    .galery {
+        margin-right: 40px;
+        font-family:'Arial Narrow', Arial, sans-serif;
+        font-size: 22px;
+    color: rgb(255, 255, 255);
+    float: right;   
+    }
+    .contact{
+        margin-right: 25px;
+        font-family:'Arial Narrow', Arial, sans-serif;
+        font-size: 22px;
+    color: rgb(255, 255, 255);
+    float: right;  
+    padding: 13px;
+    }
+    .content_g{
+        width: 100%;
+        height: 642px;
+        margin-top: 10px;
+    
+    }
+    .content_non_zagol{
+        width: 100%;
+        height: 595px;
+        margin-top: 10px;
+        
+    }
+    .img{
+        max-width: 100%;
+       border-radius: 3px;
+    }
+    
+    .foto_gl {
+        width: 595px;
+        height: 595px;
+        float: left;
+        
+    }
+    
+    .foto_gr {
+        width: 595px;
+        height: 595px;
+        float: right;
+    }
+    .zagolovok {
+        height: 30px;
+        width: 100%;
+        text-align: center;
+        color: rgb(29, 28, 28);
+        padding-top: 25px;
+    
+    }
+    
+    .text_content {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+        margin-top: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    .logo_1, .logo_2{
+      float: right;
+      margin-right: 15px;  
+    
+     
+    }
+    .imgl{
+         border-radius: 10px;
+    }
+    .sequr {
+        height: 30px;
+        width: 300px; 
+    float: left;
+    margin-right: 50px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    }
+    .footext {
+        height: 30px;
+        width: 400px;
+    float: left;
+    margin-left: 50px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    }
+    
+    
+    .h2_title {
+        padding-top: 25px;
+        height: 25px;
+        width: 100%;
+        background-color: rgb(145, 144, 144);
+    }
+    
+    @font-face {
+        font-family: "lovelolinelight";
+        src: local("lovelolinelight"), url("font/lovelolinelight.woff2");
+    }
+    @font-face {
+        font-family: "Loveloline";
+        src: local("Loveloline"), url("font/Loveloline.ttf");
+    
+    }
+    @font-face {
+        font-family: 'Lovelo Line';
+        src: local('Lovelo Line Light'), local('Lovelo-LineLight'), url('font/lovelolinelight.woff2') format('woff2'), url('font/lovelolinelight.woff') format('woff'), url('font/lovelolinelight.ttf') format('truetype');
+        font-weight: 400;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'Lovelo Line';
+        src: local('Lovelo Line Bold'), local('Lovelo-LineBold'), url('font/lovelolinebold.woff2') format('woff2'), url('font/lovelolinebold.woff') format('woff'), url('font/lovelolinebold.ttf') format('truetype');
+        font-weight: 700;
+        font-style: normal;
+    }
+    
+    /*text*/
+    p {
+        text-align: justify;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 18px;
+        font-family: 'Arial Narrow', Arial, sans-serif;
+        line-height: 18px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    h3 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+       margin-bottom: 5px;
+        font-size: 22px;
+        color: rgb(49, 49, 49);
+        margin-left: 15px;
+    }
+    h2 {
+    
+       font-size: 30px;
+        text-align: center;
+       
+    
+    font-family: 'Arial Narrow', Arial, sans-serif;
+      line-height: 0%;
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+    details {
+        font-size: 30px;
+     
+        color: rgb(49, 49, 49);
+    
+        font-family: 'Arial Narrow', Arial, sans-serif;
+     margin-top: 10px;
+     padding-bottom: 10px;
+       margin-left: 15px;
+    }
+    summary{
+        font-size: 18px;
+     
+        color: rgb(49, 49, 49);
+    
+        font-family: 'Arial Narrow', Arial, sans-serif;
+        line-height: 5px;
+        margin-bottom: 7px;
+       margin-left: 15px; 
+    }
+    
+    /*footer*/
+    .footar{
+        height: 50px;
+        width: 100%;
+        background-color: rgb(192, 152, 155);
+        margin-top: 10px;
+        padding-top: 10px;
+    }
+    .logo_1, .logo_2{
+      float: right;
+      margin-right: 15px;  
+     
+    }
+    .imgl{
+         border-radius: 10px;
+    }
+    .sequr {
+    float: left;
+    margin-left: 10px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    }
+    .footext {
+    float: left;
+    margin-left: 10px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    
+    }
+}
