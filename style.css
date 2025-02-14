@@ -23,7 +23,7 @@ body {
 }
 .h1_title {
     margin-top: 0px;
-    font-size: 18px;
+    font-size: 25px;
     margin-left: 10px;
 }
 
@@ -115,7 +115,7 @@ margin-top: 13px;
 .info_text{
     margin-left: 50px;
     color: rgb(255, 255, 255);
-    font-size: 25px;
+    
     font-family: 'Arial Narrow', Arial, sans-serif;
    
    margin-right: 10px;

@@ -41,11 +41,14 @@
         float: none;
     }
     .text1{
-        border-radius: 10px;
+        border-radius: 0px;
         
-        width: 100%;
-       padding-left: 10px;
-       padding-right:10px;
+        width: 550px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+       padding-left: 0px;
+       padding-right: 0px;
        padding-top: 0px;
         float: none;
         text-align:center ;
@@ -751,9 +754,12 @@
     .text1{
         border-radius: 10px;
         
-        width: 100%;
-       padding-left: 10px;
-       padding-right:10px;
+        width: 440px;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+       padding-left: 0px;
+       padding-right: 0px;
        padding-top: 0px;
         float: none;
         text-align:center ;
@@ -961,27 +967,7 @@
         background-color: rgb(145, 144, 144);
     }
     
-    @font-face {
-        font-family: "lovelolinelight";
-        src: local("lovelolinelight"), url("font/lovelolinelight.woff2");
-    }
-    @font-face {
-        font-family: "Loveloline";
-        src: local("Loveloline"), url("font/Loveloline.ttf");
-    
-    }
-    @font-face {
-        font-family: 'Lovelo Line';
-        src: local('Lovelo Line Light'), local('Lovelo-LineLight'), url('font/lovelolinelight.woff2') format('woff2'), url('font/lovelolinelight.woff') format('woff'), url('font/lovelolinelight.ttf') format('truetype');
-        font-weight: 400;
-        font-style: normal;
-    }
-    @font-face {
-        font-family: 'Lovelo Line';
-        src: local('Lovelo Line Bold'), local('Lovelo-LineBold'), url('font/lovelolinebold.woff2') format('woff2'), url('font/lovelolinebold.woff') format('woff'), url('font/lovelolinebold.ttf') format('truetype');
-        font-weight: 700;
-        font-style: normal;
-    }
+ 
     
     /*text*/
     p {
