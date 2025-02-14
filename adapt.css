@@ -252,12 +252,12 @@
     }
     
     
-    .h2_title {
-        padding-top: 25px;
-        height: 25px;
-        width: 100%;
-        background-color: rgb(145, 144, 144);
-    }
+   .h2_title {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    background-color: rgb(186, 186, 186);
+}
     
     @font-face {
         font-family: "lovelolinelight";
@@ -608,12 +608,12 @@
     }
     
     
-    .h2_title {
-        padding-top: 25px;
-        height: 25px;
-        width: 100%;
-        background-color: rgb(145, 144, 144);
-    }
+   .h2_title {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    background-color: rgb(186, 186, 186);
+}
     
     @font-face {
         font-family: "lovelolinelight";
@@ -969,12 +969,12 @@
     }
     
     
-    .h2_title {
-        padding-top: 25px;
-        height: 25px;
-        width: 100%;
-        background-color: rgb(145, 144, 144);
-    }
+   .h2_title {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 100%;
+    background-color: rgb(186, 186, 186);
+}
     
  
     

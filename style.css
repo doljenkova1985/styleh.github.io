@@ -248,7 +248,7 @@ color: aliceblue;
 
 .h2_title {
     padding-top: 25px;
-    height: 25px;
+    padding-bottom: 25px;
     width: 100%;
     background-color: rgb(186, 186, 186);
 }
@@ -274,7 +274,8 @@ h3 {
     margin-left: 15px;
 }
 h2 {
-
+margin-top: 10px;
+margin-bottom: 10px;
    font-size: 30px;
     text-align: center;
    
