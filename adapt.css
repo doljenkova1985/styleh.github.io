@@ -331,33 +331,45 @@
        margin-left: 15px; 
     }
     
-    /*footer*/
-    .footar{
-        height: 50px;
-        width: 100%;
-        background-color: rgb(192, 152, 155);
-        margin-top: 10px;
-        padding-top: 10px;
-    }
-    .logo_1, .logo_2{
-      float: right;
-      margin-right: 15px;  
-     
-    }
-    .imgl{
-         border-radius: 10px;
-    }
-    .sequr {
+  /*footer*/
+  .footar{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(192, 152, 155);
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.logo_1, .logo_2{
+  float: right;
+  margin-right: 10px;  
+ 
+}
+.imgl{
+     border-radius: 10px;
+}
+.sequr {
+float: none;
+margin-left: 10px;
+font-family: 'Arial Narrow', Arial, sans-serif;
+width: 100%;
+}
+.footext {
+float: none;
+margin-left: 10px;
+font-family: 'Arial Narrow', Arial, sans-serif;
+width: 100%;
+margin-top: 10px;
+}
+
+.futext {
     float: left;
-    margin-left: 10px;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-    }
-    .footext {
-    float: left;
-    margin-left: 10px;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-    
-    }
+    width: 75%;
+    height: 80px;
+}
+.social {
+    float: right;
+    width: 24%;
+}
 }
 /*\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
 @media only screen and (max-width: 510px){
@@ -687,33 +699,45 @@
        margin-left: 15px; 
     }
     
-    /*footer*/
-    .footar{
-        height: 50px;
-        width: 100%;
-        background-color: rgb(192, 152, 155);
-        margin-top: 10px;
-        padding-top: 10px;
-    }
-    .logo_1, .logo_2{
-      float: right;
-      margin-right: 15px;  
-     
-    }
-    .imgl{
-         border-radius: 10px;
-    }
-    .sequr {
+/*footer*/
+.footar{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(192, 152, 155);
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.logo_1, .logo_2{
+  float: right;
+  margin-right: 10px;  
+ 
+}
+.imgl{
+     border-radius: 10px;
+}
+.sequr {
+float: none;
+margin-left: 10px;
+font-family: 'Arial Narrow', Arial, sans-serif;
+width: 100%;
+}
+.footext {
+float: none;
+margin-left: 10px;
+font-family: 'Arial Narrow', Arial, sans-serif;
+width: 100%;
+margin-top: 10px;
+}
+
+.futext {
     float: left;
-    margin-left: 10px;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-    }
-    .footext {
-    float: left;
-    margin-left: 10px;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-    
-    }
+    width: 75%;
+    height: 80px;
+}
+.social {
+    float: right;
+    width: 24%;
+}
 }
 /*\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\*/
 @media only screen and (max-width: 480px){
@@ -914,14 +938,14 @@
     .foto_gl {
         width: 595px;
         height: 595px;
-        float: left;
+        float: none;
         
     }
     
     .foto_gr {
         width: 595px;
         height: 595px;
-        float: right;
+        float: none;
     }
     .zagolovok {
         height: 30px;
@@ -1028,31 +1052,43 @@
        margin-left: 15px; 
     }
     
-    /*footer*/
-    .footar{
-        height: 50px;
-        width: 100%;
-        background-color: rgb(192, 152, 155);
-        margin-top: 10px;
-        padding-top: 10px;
-    }
-    .logo_1, .logo_2{
-      float: right;
-      margin-right: 15px;  
-     
-    }
-    .imgl{
-         border-radius: 10px;
-    }
-    .sequr {
+/*footer*/
+.footar{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(192, 152, 155);
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.logo_1, .logo_2{
+  float: right;
+  margin-right: 10px;  
+ 
+}
+.imgl{
+     border-radius: 10px;
+}
+.sequr {
+float: none;
+margin-left: 10px;
+font-family: 'Arial Narrow', Arial, sans-serif;
+width: 100%;
+}
+.footext {
+float: none;
+margin-left: 10px;
+font-family: 'Arial Narrow', Arial, sans-serif;
+width: 100%;
+margin-top: 10px;
+}
+
+.futext {
     float: left;
-    margin-left: 10px;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-    }
-    .footext {
-    float: left;
-    margin-left: 10px;
-    font-family: 'Arial Narrow', Arial, sans-serif;
-    
-    }
+    width: 75%;
+    height: 80px;
+}
+.social {
+    float: right;
+    width: 24%;
+}
 }
